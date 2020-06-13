@@ -11,7 +11,7 @@ public class Main {
 	int area = 0;
 	int para = 0;
         Scanner scan = new Scanner(System.in);
-        System.out.println("Enter value of lenght = ");
+        System.out.println("Enter value of lenght of Rectangle = ");
         l = scan.nextInt();
         System.out.println("Enter value of Breath = ");
         b = scan.nextInt();
